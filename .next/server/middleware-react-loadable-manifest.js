@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"app\\\\page.tsx -> @studio-freight/lenis\":{\"id\":\"app\\\\page.tsx -> @studio-freight/lenis\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_studio-freight_lenis_dist_lenis_mjs.js\"]}}"

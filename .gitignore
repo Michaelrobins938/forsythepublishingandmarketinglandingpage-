@@ -1,1 +1,60 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js build output
+/.next/
+/out/
+
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+#vercel
 .vercel
+
+#large files
+public/ads/hero-demo.mp4
+public/AI_Lead_Conversion.mp4
+public/hero section/20251018_1104_01k7w0zm6nedvvtbhggrsayfye.mp4
+public/smart site/20251018_1102_01k7w0wqgnfae9vne95mfqa2v0.mp4
+public/voice agent demo calls/bi-lingual landscape.mp4
+public/voice agent demo calls/dentistry.mp4
+public/voice agent demo calls/forsythebrandlogooutro (1).mp4
+public/voice agent demo calls/forsythebrandlogooutro (2).mp4
+public/voice agent demo calls/plumbing.mp4
+public/voice agent demo calls/roofing inbound.mp4
+public/voice agent demo calls/roofing outbound.mp4
+public/voice agent demo calls/solar.mp4
+public/voice agent demo calls/tattoo studio.mp4
+public/voice agent demo calls/veterinary.mp4
+public/ads/baber2.mp4
+public/ads/babershop.mp4
+public/ads/coffeeshop.mp4
+public/ads/gym.mp4
+public/ads/hairstylist.mp4
+public/ads/hvac.mp4
+public/ads/landscaping.mp4
+public/ads/plumbing.mp4
+public/ads/roofing.mp4
+public/ads/solar-10s.mp4
