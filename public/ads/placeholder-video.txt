@@ -1,0 +1,35 @@
+# Video Placeholders for Forsythe Landing Page
+
+## Required Video Files
+Place the following video files in this directory:
+
+### Main Demo Video
+- hero-demo.mp4 (2-3 minutes) - Full demo video showing AI callback process
+
+### Service-Specific Ads (10 seconds each)
+- roofing.mp4 - Roofing contractor ad
+- hvac.mp4 - HVAC services ad  
+- plumbing.mp4 - Plumbing services ad
+- solar-10s.mp4 - Solar installation ad
+- landscaping.mp4 - Landscaping services ad
+- coffeeshop.mp4 - Coffee shop/retail ad
+
+## Video Specifications
+- Codec: H.264
+- Resolution: 1920x1080 (landscape) or 1080x1920 (vertical)
+- Bitrate: ~5000 kbps
+- Format: MP4
+- Audio: AAC, 192 kbps
+- Duration: 5-10 seconds for ads, 2-3 minutes for demo
+
+## Thumbnail Images
+Create corresponding .jpg thumbnail images in the thumbs/ subdirectory:
+- roofing.jpg
+- hvac.jpg
+- plumbing.jpg
+- solar.jpg
+- landscaping.jpg
+- coffeeshop.jpg
+
+## Current Status
+The landing page is configured to reference these videos. The page will work without them (showing placeholders), but for full functionality, add the actual video files.
