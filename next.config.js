@@ -1,6 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
+  basePath: '/forsythepublishingandmarketinglandingpage-',
+  assetPrefix: '/forsythepublishingandmarketinglandingpage-/',
   images: {
+    unoptimized: true,
     domains: ['images.unsplash.com'],
     formats: ['image/webp', 'image/avif'],
     minimumCacheTTL: 60,
@@ -34,8 +38,6 @@ const nextConfig = {
       },
     ];
   },
-  // Enable static exports if needed
-  // output: 'export',
 };
 
 module.exports = nextConfig;
